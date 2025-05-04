@@ -773,7 +773,7 @@ hr.bg-secondary {
 /* ================== تنسيقات Hero Section لصفحة المعدات ================== */
 .equipment-hero {
   background: linear-gradient(var(--overlay-color-medium), var(--overlay-color-medium)),
-   url('/image/home-equip.jpg') no-repeat center/cover;
+   url('image/home-equip.jpg') no-repeat center/cover;
   padding: 100px 0;
   height: 80vh;
   color: var(--background-color); /* أبيض */
